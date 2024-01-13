@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/timer-pomodoro/static/css/main.48a855cc.css",
+    "main.js": "/timer-pomodoro/static/js/main.4648f153.js",
+    "static/media/beep.mp4": "/timer-pomodoro/static/media/beep.9bcd017283ae51220439.mp4",
+    "index.html": "/timer-pomodoro/index.html",
+    "main.48a855cc.css.map": "/timer-pomodoro/static/css/main.48a855cc.css.map",
+    "main.4648f153.js.map": "/timer-pomodoro/static/js/main.4648f153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a855cc.css",
+    "static/js/main.4648f153.js"
+  ]
+}
